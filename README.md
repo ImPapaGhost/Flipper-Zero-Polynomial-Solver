@@ -14,9 +14,10 @@ Clone or download this repository.
 Build the app using uFBT (ensure you have the Flipper Zero SDK set up).
 Transfer the .fap file to your Flipper Zero device.
 Launch the app from the Flipper Zero's menu.
-Controls
-Main Menu:
 
+Controls
+
+Main Menu:
 Up: View instructions.
 OK: Start setting 𝑥 value.
 Back: Exit the app.
