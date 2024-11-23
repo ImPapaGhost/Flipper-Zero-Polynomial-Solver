@@ -1,4 +1,3 @@
-Polynomial Solver for Flipper Zero
 Polynomial Solver is an application for the Flipper Zero that enables users to solve and manipulate polynomials up to the sixth degree. With this app, users can evaluate polynomials, calculate derivatives and integrals, and visualize results directly on the Flipper's screen.
 
 Features
