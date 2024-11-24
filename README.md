@@ -1,7 +1,7 @@
-Polynomial Solver is an application for the Flipper Zero that enables users to solve and manipulate polynomials up to the sixth degree. With this app, users can evaluate polynomials, calculate derivatives and integrals, and visualize results directly on the Flipper's screen.
+Math Wiz is an application for the Flipper Zero that enables users to solve and manipulate polynomials up to the sixth degree. With this app, users can evaluate polynomials, calculate derivatives and integrals, and visualize results directly on the Flipper's screen.
 
 Features
-Polynomial Solver: Input coefficients for a polynomial up to the sixth degree and evaluate its value for a user-defined 𝑥.
+Math Wiz: Input coefficients for a polynomial up to the sixth degree and evaluate its value for a user-defined 𝑥.
 
 Derivative Calculation: Compute the derivative of the polynomial, reducing its degree.
 
@@ -15,15 +15,15 @@ Simple Navigation: Intuitive menus and input options using the Flipper Zero's bu
 
 Getting Started
 
-To install and use the Polynomial Solver app, follow these steps:
+To install and use the Math Wiz app, follow these steps:
 
 Clone or download this repository.
 
-Build the app using uFBT (ensure you have the Flipper Zero SDK set up).
+To build the app use uFBT in the application folder (ensure you have the Flipper Zero SDK set up).
 
-Transfer the .fap file to your Flipper Zero device.
+Or transfer the .fap file to your Flipper Zero device using qFlipper into the Tools folder.
 
-Launch the app from the Flipper Zero's menu.
+Launch the app from the Flipper Zero's tool menu.
 
 Controls
 
